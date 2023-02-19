@@ -1,0 +1,91 @@
+{
+  "quiz": {
+    "quizId": "x42kew",
+    "title": "What is your lifestyle?",
+    "subtitle": "Don't take this serious ...",
+    "content": [
+      {
+        "id": 0,
+        "text": "Pick a vacation destination",
+        "options": [
+          {
+            "text": "New York",
+            "image": "https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "alt": "New York",
+            "credit": "Robert Bye"
+          },
+          {
+            "text": "Austin",
+            "image": "https://images.unsplash.com/photo-1531218150217-54595bc2b934?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2128&q=80",
+            "alt": "time-lapse photography car lights on bridge",
+            "credit": "Carlos Alfonso"
+          },
+          {
+            "text": "Portland",
+            "image": "https://images.unsplash.com/photo-1541457523724-95f54f7740cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cG9ydGxhbmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "alt": "high-rise buildings",
+            "credit": "Elena Kuchko"
+          },
+          {
+            "text": "New Orleans",
+            "image": "https://images.unsplash.com/photo-1549965738-e1aaf1168943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5ldyUyMG9ybGVhbnN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "alt": "road with people and houses",
+            "credit": "Joao Francisco"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "text": "Pick some food.",
+        "options": [
+          {
+            "text": "Pizza",
+            "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2076&q=80",
+            "alt": "Pepperoni Pizza",
+            "credit": "Alan Hardman"
+          },
+          {
+            "text": "Sandwich",
+            "image": "https://images.unsplash.com/photo-1540713434306-58505cf1b6fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2FuZHdpY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "alt": "Clubhouse sandwich",
+            "credit": "Pille R. Priske"
+          },
+          {
+            "text": "Pasta",
+            "image": "https://images.unsplash.com/photo-1673442635965-34f1b36d8944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHBhc3RhJTIwaXRhbGlhbmF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "alt": "Spaghetti",
+            "credit": "Sofia Ciravegna"
+          },
+          {
+            "text": "Hamburger",
+            "image": "https://images.unsplash.com/photo-1624855600799-ac8e8bddd1da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbWJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+            "alt": "Burger with fries",
+            "credit": "Jon Parry"
+          }
+        ]
+      }
+    ],
+    "answers": [
+      {
+        "combination": [
+          "New York",
+          "Hamburger"
+        ],
+        "text": "Blue Cheese",
+        "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1ZSUyMGNoZWVzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "alt": "blue cheese",
+        "credit": "Jez Timms"
+      },
+      {
+        "combination": [
+          "Austin",
+          "Pizza"
+        ],
+        "text": "Goat Cheese",
+        "image": "https://images.unsplash.com/photo-1566935404705-c22355bfa3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGdvYXQlMjBjaGVlc2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "alt": "goat cheese",
+        "credit": "Xavier von Erlach"
+      }
+    ]
+  }
+}
