@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import QuestionTile from './components/QuestionTile';
 import Title from './components/Title';
 import { Quiz } from './types/quiz';
 
 function App() {
 
-  const [quiz, setQuiz] = useState({} as Quiz);
+  const [quiz, setQuiz] = useState<Quiz>({} as Quiz);
 
   const fetchData = async () => {
     try {
